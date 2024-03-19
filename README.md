@@ -25,7 +25,7 @@ Test Mavericks Forge Team solution- generated-code
 
 ⚡PLEASE WATCH THE E2E FLOW VIDEO FROM PPT SLIDE 45⚡
 
-⚡Research references: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+⚡Research references: ------------------------------------------------------------------------------------------------------------------------------------------------
 
 https://userdoc.fyi  - Requirement Analysis
 https://www.taskade.com/  - Project Management and Resource Allocation
