@@ -1,0 +1,103 @@
+monitoringIntervals: -1
+clickButtonOnlyOnce: false
+detectUiIssues: false
+axeCoreTestStrategy: DO_NOT_RUN
+maxAxeCoreErrorSeverity: MAJOR
+screenRereadStrategy: RereadAllPage
+parentPathStrategy: AllPath
+useParallelCombinator: true
+maximumParallelServers: 10
+maxParallelBatchSize: 10
+allowedRecordedSessionTimeouts: 12
+maximumNumberOfFlows: 0
+maximumNumberOfRecordedTestCases: 10
+maximumFlowDepth: 16
+maximumRecordedFlowDepth: 16
+maximumWaitTimeout: 30
+maximumWaitTimeoutForConditionals: 3
+maximumDataLoadTimeout: 60
+maximumDownloadTimeout: 60
+maximumEmailWaitTime: 60
+waitForPageToRender: 0
+waitFirstPage: 0
+waitAfterLogin: 0
+waitAfterSearch: 0
+waitAfterDataEntry: 0
+waitBeforeDropdownReread: 100
+waitAfterScrolling: 0
+waitAfterScrollingBeforeGettingElementImage: 500
+waitAfterUploadClick: 1
+waitAfterFillingForm: 1000
+waitAfterSwitchingTab: 1000
+waitAfterPressingKeys: 50
+waitAfterDrag: 100
+waitAfterElementFoundBeforeEngaging: 50
+delayBetweenMouseClickActions: 50
+delayBetweenMouseDragAndDropActions: 400
+maximumNumerOfRetries: 0
+alwaysTestAllElementsInLists: false
+discoveryStrategy: DISCOVER
+screenRetestStrategy: LAST
+desktopWebClickStrategy: SELENIUM_JS
+recordTestExecutionVideo: true
+retestTexts: ALL
+retestDataInputs: ALL
+retestControls: ALL
+retestLists: ALL
+testJavascriptErrors: NONE
+testCssFiles: NONE
+testImageFiles: NONE
+testJavascriptFiles: NONE
+testApiCalls: NONE
+testOtherFiles: NONE
+allowSubdomainsChange: ALLOW_ANY
+mobileWebClickStrategy: CLICK
+mobileEnterStrategy: DEFAULT
+mobileKeyboardStrategy: CLICK_OUTSIDE
+androidKeyboardStrategy: NAVIGATE_BACK
+notificationStrategy: FULL
+notificationsEmailMode: ALWAYS
+notificationsSlackMode: ALWAYS
+notificationsMicrosoftTeamsMode: ALWAYS
+allowAiButtonPrediction: false
+newTabsStrategy: SWITCH_TO_NEW
+dropdownDetectionStrategy: USE_ML
+mobileAutoAcceptPermissions: false
+logLevel: DEBUG
+useRecordedData: true
+useRecordedFlowsWithXpaths: false
+testRail:
+  enabled: false
+twilio:
+  valid: false
+  accountValid: false
+zephyr:
+  enabled: false
+  flavor: enterprise
+  trackingStrategy: project
+screenWidth: 1920
+screenHeight: 1080
+deviceOrientation: PORTRAIT
+deviceLanguage: en_US
+seleniumChromeHeadlessMode: false
+incognitoMode: true
+blockNotifications: true
+pageReadStrategy: SHORT_XPATH
+webPageInfoStrategy: JQUERY_VISIBLE
+ocrProcessing: false
+alwaysStartNewDriver: true
+maximumFrameLevels: 1
+measurePageLoad: true
+waitForScripts: false
+automaticAlertHandler: false
+loadTestConfiguration:
+  numberOfServers: 20
+  durationInMinutes: 50
+  failOption: never
+androidWaitForIdleTimeout: 10000
+androidWaitForSelectorTimeout: 10000
+disabledWebViewContext: false
+desktopWebScreenshotStrategy: VIEWPORT_USING_OS
+androidDisabledWindowAnimation: true
+durationOfHoldForDragAndDropOnIos: 500
+snapshotMaxDepth: 50

@@ -1,0 +1,5 @@
+Login
+click "Login"
+check if page contains "standard_user"
+enter "secret_sauce" into "Password"
+check if page contains "Swag Labs"
