@@ -36,9 +36,10 @@ https://docs.flutterflow.io/
 https://www.figma.com/community/plugin/1149380850484102424   -UI /UX
 https://buildship.com/  - Low-code Backend Builder
 https://goteleport.com/   -Infrastructure, Build, and Deployment Automation & Monitoring
-
-<iframe src="https://giphy.com/embed/Xbs4EIrYgAegJOIO4g" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Nagarro-caring-nagarro-life-at-Xbs4EIrYgAegJOIO4g">via GIPHY</a></p>
 https://testrigor.com/  - Test Automation and QA"
 https://topai.tools/  - A plethora of new tools
+
+<iframe src="https://giphy.com/embed/Xbs4EIrYgAegJOIO4g" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Nagarro-caring-nagarro-life-at-Xbs4EIrYgAegJOIO4g">via GIPHY</a></p>
+
 
 
