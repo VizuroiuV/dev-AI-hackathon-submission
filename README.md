@@ -20,11 +20,12 @@ Test Mavericks Forge Team solution- generated-code
 ⚡The provided JSON schema defines an object with a property named "devices," which is an array containing enum values for various household devices. Each device has a corresponding label for display purposes. Additionally, the schema specifies that the "devices" property is required, ensuring that users must select at least one device when interacting with the object.
 ⚡The JSON schema describes an object with a property named "tipsResponse," which is of type string and serves as a container for energy-saving tips. It includes a description indicating that it holds a list of tips based on selected devices. The build and the API call is done by the Buildhip.io tool
 
-
 ⚡TEST⚡
-⚡Generated set of instructions or steps Gherkin type for the Ai generated test for our app, unfortunately in not very detailed and they do not provide the testscripts
+⚡Generated set of instructions or steps Gherkin type for the AI generated test for our app, unfortunately it's not very detailed and they do not provide the testscripts
 
-⚡Research references
+⚡PLEASE WATCH THE E2E FLOW VIDEO FROM PPT SLIDE 45⚡
+
+⚡Research references: -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 https://userdoc.fyi  - Requirement Analysis
 https://www.taskade.com/  - Project Management and Resource Allocation
