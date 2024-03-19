@@ -38,7 +38,6 @@ https://buildship.com/  - Low-code Backend Builder
 https://goteleport.com/   -Infrastructure, Build, and Deployment Automation & Monitoring
 https://testrigor.com/  - Test Automation and QA"
 https://topai.tools/  - A plethora of new tools
-
 ![Caring GIF](https://media.giphy.com/media/H8AWIOvn0fj121MyxR/giphy.gif)
 
 
