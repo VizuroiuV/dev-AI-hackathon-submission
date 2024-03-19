@@ -39,7 +39,7 @@ https://goteleport.com/   -Infrastructure, Build, and Deployment Automation & Mo
 https://testrigor.com/  - Test Automation and QA"
 https://topai.tools/  - A plethora of new tools
 
-![Caring GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnUzMGFzenpya3Iwa2xqamUzbXl0MHMzYjBlbXFuZDFqZ3MwcjFjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xbs4EIrYgAegJOIO4g/giphy.gif)
+![Caring GIF](https://media.giphy.com/media/H8AWIOvn0fj121MyxR/giphy.gif)
 
 
 
