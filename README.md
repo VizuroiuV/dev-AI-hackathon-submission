@@ -1,4 +1,4 @@
-#⚡Dev-AI-hackathon-submission⚡
+#Dev-AI-hackathon-submission⚡
 
 Test Mavericks Forge Team solution- generated-code
 
