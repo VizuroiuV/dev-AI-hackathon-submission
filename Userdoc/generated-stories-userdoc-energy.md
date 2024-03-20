@@ -1,6 +1,6 @@
 **⚡View Energy Usage⚡**
 
-**⚡s a Homeowner⚡,
+**⚡As a Homeowner⚡**,
 
 I want to view a detailed breakdown of energy consumption by each smart device,
 So I can understand where and how much energy is being used at a granular level**
