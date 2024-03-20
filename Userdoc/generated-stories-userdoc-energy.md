@@ -1,11 +1,11 @@
-**###View Energy Usage**
+**⚡View Energy Usage⚡**
 
-**###As a Homeowner,
+**⚡s a Homeowner⚡,
 
 I want to view a detailed breakdown of energy consumption by each smart device,
 So I can understand where and how much energy is being used at a granular level**
 
-**###ACCEPTANCE CRITERIA**
+**⚡ACCEPTANCE CRITERIA⚡**
 Shows heading 'Energy Usage by Device'
 Lists each connected smart device along with its current energy consumption level
 Each device entry, on click
